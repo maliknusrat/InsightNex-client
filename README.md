@@ -1,8 +1,9 @@
-# React + Vite
+# LiveSite Link
+https://insightnex-8a9bd.web.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# WebSite Name: InsightNex
+This Website is about asserts management system. There are two section Employee and Admin.
+Admin have all the access to add or remove employee, add asserts, have right to accept or 
+reject the assets request and custom assets request. The employee can request an asset or 
+a custom request. 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
