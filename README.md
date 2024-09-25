@@ -1,5 +1,5 @@
 # LiveSite Link
-https://insightnex-8a9bd.web.app/
+https://insightnex.netlify.app/
 
 # WebSite Name: InsightNex
 This Website is about asserts management system. There are two section Employee and Admin.
