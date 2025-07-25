@@ -32,7 +32,7 @@ InsightX is currently seeking a skilled **MERN Stack Developer** to build this *
 
 ## ⚙️ Tech Stack
 
-- **Frontend:** React.js (with Tailwind CSS, Redux)
+- **Frontend:** React.js (with Tailwind CSS)
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Authentication:** JWT
