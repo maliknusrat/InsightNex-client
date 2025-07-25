@@ -1,4 +1,4 @@
-![Home Page](https://ibb.co/rKB58BQN)
+![Home Page]([https://ibb.co/rKB58BQN](https://i.ibb.co/nqXQdXwt/image.png))
 
 # LiveSite Link
 https://insightnex.netlify.app/
