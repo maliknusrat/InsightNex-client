@@ -14,7 +14,7 @@ The main goal of this software is to make it easy for **HR/Admins** to track how
 - **Returnable Assets**: Laptop, Keyboard, Mouse, Chair, Desk, Cell Phone, etc.
 - **Non-returnable Assets**: Pens, Pencils, Paper, Diaries, Tissue Paper, etc.
 
-XYZ is currently seeking a skilled **MERN Stack Developer** to build this **Asset Management System**.
+InsightX is currently seeking a skilled **MERN Stack Developer** to build this **Asset Management System**.
 
 ---
 
@@ -36,13 +36,7 @@ XYZ is currently seeking a skilled **MERN Stack Developer** to build this **Asse
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Authentication:** JWT
-- **Deployment:** Coming Soon...
-
----
-
-## 📸 Screenshot
-
-![Homepage](https://ibb.co/rKB58BQN)
+- **Deployment:** Netlify and Vercel
 
 ---
 
@@ -61,10 +55,4 @@ XYZ is currently seeking a skilled **MERN Stack Developer** to build this **Asse
 
 For any issues or suggestions, feel free to reach out at:  
 📧 **maliknusrat798@gmail.com**
-
----
-
-## 📝 License
-
-This project is licensed for educational and evaluation purposes only.
 
